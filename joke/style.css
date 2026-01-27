@@ -1,0 +1,24 @@
+body {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(122, 133, 122);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(159, 223, 106);
+}
+
+#jokeElement {
+    height: 70%;
+    color: rgb(132, 224, 192);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 5px auto;
+    background-color: rgb(110, 120, 110);
+    border-radius: 5px;
+    padding: 10px;
+    overflow: scroll;
+    scrollbar-width: none;
+    /*border: 1px solid black;*/
+}
