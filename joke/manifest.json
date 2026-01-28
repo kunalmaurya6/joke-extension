@@ -1,7 +1,7 @@
 {
     "name": "note",
     "version": "0.0.0",
-    "menifest_version": 3,
+    "manifest_version": 3,
     "action": {
         "default_popup": "index.html"
     }
